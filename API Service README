@@ -1,0 +1,11 @@
+---
+
+### 16. API Service README
+```markdown
+# Project Name 🔌
+
+## Overview
+REST API for [service].
+
+## Authentication
+Use API key in headers:
