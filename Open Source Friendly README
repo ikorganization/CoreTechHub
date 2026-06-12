@@ -1,0 +1,19 @@
+---
+
+### 5. Open Source Friendly README
+```markdown
+# Project Name ❤️
+
+## About
+This project welcomes contributions!
+
+## How to Contribute
+1. Fork the repo
+2. Create a branch
+3. Submit a PR
+
+## Code of Conduct
+Be respectful and inclusive.
+
+## License
+Apache 2.0
